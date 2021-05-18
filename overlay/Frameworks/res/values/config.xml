@@ -69,6 +69,9 @@
        autodetected from the Configuration. -->
    <bool name="config_showNavigationBar">true</bool>
 
+   <!-- Allow devices override audio panel location to the left side -->
+   <bool name="config_audioPanelOnLeftSide">true</bool>
+
    <!-- Package names to use with vendor iwlan implementation. -->
    <string name="config_wlan_data_service_package" translatable="false">vendor.qti.iwlan</string>
    <string name="config_wlan_network_service_package" translatable="false">vendor.qti.iwlan</string>
